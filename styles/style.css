@@ -136,14 +136,14 @@ body {
 
 /* Edit Task */
 .task .task__input {
-  display:none
+  display: none
 }
 
 .task.edit-mode .task__input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .task.edit-mode .task__label {
-  display:none;
+  display: none;
 }
