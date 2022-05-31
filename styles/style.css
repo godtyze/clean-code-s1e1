@@ -119,13 +119,13 @@
   margin: 0 10px;
 }
 
-.task__btn img {
+.task__btn-img {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
 
-.task__btn.delete img:hover {
+.task__btn.delete .task__btn-img:hover {
   transform: rotateZ(0);
 }
 
